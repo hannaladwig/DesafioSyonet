@@ -18,7 +18,8 @@ Este é um projeto de teste automatizado desenvolvido em Java utilizando a ferra
 1. Clone o repositório para a sua máquina.
 2. Importe o projeto para a sua IDE preferida.
 3. Certifique-se de que as bibliotecas do Selenium WebDriver estão configuradas no projeto.
-4. Execute o arquivo como um teste JUnit.
+4. Abra o arquivo "FormLogin.java", "DynamicLoading2.java", "Frames.java".
+5. Execute o arquivo como um teste JUnit.
 
 ## Funcionalidades testadas
 
